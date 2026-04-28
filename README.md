@@ -29,7 +29,7 @@ This project showcases a production-style frontend for live telemetry: resilient
 - [SSE Data Contract](#sse-data-contract-expected-by-ui)
 - [Roadmap](#roadmap)
 
-- [Dashboard - check it out!](#https://satellite-tracking-dashboard-demo.vercel.app)
+- [Dashboard - check it out!](https://satellite-tracking-dashboard-demo.vercel.app)
 
 ## Why This Project Stands Out
 
